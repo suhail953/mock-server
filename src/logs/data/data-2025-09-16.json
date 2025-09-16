@@ -1,0 +1,1 @@
+{"timestamp":"2025-09-16T12:27:27.669Z","source":"mqtt","data":{"mac":"00:11:22:33:44:55","data":[{"ts":1758000000,"power":1500,"voltage":240,"current":6.25}]}}
