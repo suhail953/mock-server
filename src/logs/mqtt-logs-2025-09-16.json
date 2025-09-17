@@ -13,3 +13,6 @@
 {"timestamp":"2025-09-16T12:27:27.592Z","level":"MQTT_DATA","message":"Message from mqttjs_76cc6cfb on topic wattmon/test","data":{"mac":"00:11:22:33:44:55","data":[{"ts":1758000000,"power":1500,"voltage":240,"current":6.25}]}}
 {"timestamp":"2025-09-16T12:27:27.617Z","level":"INFO","message":"Client disconnected: mqttjs_76cc6cfb"}
 {"timestamp":"2025-09-16T12:27:35.533Z","level":"INFO","message":"Server shutting down gracefully"}
+{"timestamp":"2025-09-16T12:51:42.206Z","level":"INFO","message":"MQTT broker started on port 1884"}
+{"timestamp":"2025-09-16T12:51:42.212Z","level":"INFO","message":"HTTP server started on port 3000"}
+{"timestamp":"2025-09-16T12:51:44.529Z","level":"INFO","message":"Connected to MongoDB successfully"}

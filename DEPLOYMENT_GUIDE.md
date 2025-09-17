@@ -66,7 +66,7 @@ Configure your Wattmon device with:
 Test your API:
 ```bash
 # Health check
-curl https://your-app-name.onrender.com/api/health
+curl https://mock-server-git-main-suhails-projects-300833e1.vercel.app/api/health
 
 # Send test data via HTTP
 curl -X POST https://your-app-name.onrender.com/api/data/receive \
